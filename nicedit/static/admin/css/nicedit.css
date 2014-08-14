@@ -3,3 +3,7 @@ form .aligned .nicEdit-main p {
 	margin: 0;
 	padding: 0;
 }
+
+form .aligned .nicEdit-main ul {
+	margin-left: 1em;
+}
